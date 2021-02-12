@@ -40,5 +40,5 @@ next
 ## Endereço de Memória
 
 ```
-x <addr>
+x/32xb <addr>
 ```
