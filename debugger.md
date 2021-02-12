@@ -35,3 +35,10 @@ r
 ```
 next
 ```
+
+
+## Endereço de Memória
+
+```
+x <addr>
+```
